@@ -1,1 +1,1 @@
-### JS-Introduction-Coursera
+# JS-Introduction-Coursera
